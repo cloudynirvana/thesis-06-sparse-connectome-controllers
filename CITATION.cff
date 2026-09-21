@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Sparse Connectome-Style Controllers as In-Silico Policy Classes: Identifiable Closed-Loop Differences from Lumped Adaptive Therapy on a Toy Cancer ODE"
+message: "If you cite this manuscript, please use the metadata below. This record is the working thesis, not a journal article. No DOI is registered for this document. Do not invent a DOI. Do not cite the fly-brain-vs-tumor game or the malecns-immune-sight visualization as this paper."
+type: article
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+repository-code: "https://github.com/cloudynirvana/thesis-06-sparse-connectome-controllers"
+url: "https://github.com/cloudynirvana/thesis-06-sparse-connectome-controllers"
+license: MIT
+date-released: "2026-09-21"
+abstract: "Relative to lumped adaptive-therapy controllers, do sparse connectome-style policies change closed-loop computational behaviour on a toy cancer ODE in a way that is identifiable from controller architecture alone? Kenyon-cell-style expansion, sparsening, and readout are treated as in-silico controller architecture classes, not as fly-neuron therapy. Adjacent game and visualization repositories are not this paper. Research only. Not a medical device."
+keywords:
+  - in-silico control
+  - adaptive therapy
+  - sparse coding
+  - Kenyon-cell-style architecture
+  - reservoir computing
+  - identifiability
+  - toy cancer ODE
+  - research-only
+  - not a medical device
+preferred-citation:
+  type: thesis
+  title: "Sparse Connectome-Style Controllers as In-Silico Policy Classes: Identifiable Closed-Loop Differences from Lumped Adaptive Therapy on a Toy Cancer ODE"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-06-sparse-connectome-controllers"
+  notes: "Computational research thesis manuscript. Not a medical device. Sparse policies are architecture classes on a toy ODE, not fly-neuron therapy. Revision 2026-09-21."
